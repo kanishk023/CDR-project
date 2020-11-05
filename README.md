@@ -4,12 +4,13 @@ Building a Telecom CDR Data Analytics Project.
 ## About the data:
 It is a real-time data compromising of 16737 rows and 435 Columns in raw and unfiltered format.
 
+The raw data was cleaned and divided in various files, Call_data, Device_data, Service_data.
+
 ## Creating the User Interface
 
 The data was cleaned using using python and its different libraries and creating a UI with table and graphical 
 representation based on the filtration of Start date and End date, Group and based on Hourly, Weekly and Daily basis.
 
-The raw data was cleaned and divided in various files, Call_data, Device_data, Service_data.
 
 Dash and its various components were used to create the UI.
 
@@ -45,6 +46,7 @@ What's in the files?
 
 
 Thank You!
+
 
 
 
